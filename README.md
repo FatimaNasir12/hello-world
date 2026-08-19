@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+My name is Fatima. I did my first bachelor's degree in Electrical Engineering and currently pursuing my second Bachelor's degree in Data Science at UNCC.
